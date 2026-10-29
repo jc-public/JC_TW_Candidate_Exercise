@@ -1,7 +1,3 @@
-# JC_TW_Candidate_Exercise
-Candidate exercise template. Click "Use this template" to create your own private copy. 
-
-DO NOT fork this repo or push any pull requests through here. 
 # Technical Writer Candidate Assignment
 
 ## Overview
@@ -9,9 +5,9 @@ DO NOT fork this repo or push any pull requests through here.
 - As part of your application for Technical Writer at JumpCloud, complete the following exercises so we can evaluate your writing, editorial judgment, and docs-as-code workflow.
 - Assume your audience has **zero previous knowledge** of the technologies you’re documenting. Have fun, get creative, and show us your best work.
 - We will never use this assessment in a live customer environment. Your submission is confidential between you and the JumpCloud recruiting / review teams.
-- We evaluate for grammatical accuracy, clarity, formatting and design, technical judgment, and how you work in GitHub.
+- We evaluate for grammatical accuracy, clarity, formatting and design, technical judgement, and how you work in GitHub.
 - We’re sensitive to your time. **Do not spend more than two (2) hours** on this assessment.
-- We aim to review your exercise and provide feedback within 48 hours (2 business days).
+- We aim to review your exercise and provide feedback within 72 hours (3 business days).
 
 ## Prerequisites
 
@@ -48,8 +44,8 @@ This repository is a **public template**. It only contains the assignment prompt
 ### 1. Create your private copy
 
 1. On this repository’s GitHub page, click **Use this template** → **Create a new repository**.
-2. Set the repository to **Private**.
-3. Create it under your personal GitHub account (name it whatever you like).
+2. Create it under your personal GitHub account (name it whatever you like).
+3. Make sure your configuration visibility settings are set to **Private**. 
 
 Do **not** fork this repository. Do **not** open a pull request against this public template repo.
 
@@ -86,7 +82,7 @@ You may add an `images/` folder under `candidate/` for screenshots if helpful (k
 
 ## Exercise A — Help article (Admin Portal)
 
-After signing up and logging into the JumpCloud Admin Portal, write a help article for completing a common task, such as **adding a new user**.
+After signing up and logging into the JumpCloud Admin Portal, write a help article for completing a common task, like **adding a new user**.
 
 **Deliverable:** `candidate/exercise-a-add-user.md`
 
@@ -118,17 +114,7 @@ Using the same “add a user” mental model from Exercise A, rewrite product mi
 
 Provide improved copy for **all** of the following (keep each string concise; note character limits if you assume any):
 
-| Slot | Current / placeholder copy | Your rewrite |
-| --- | --- | --- |
-| Empty state title | No users yet | |
-| Empty state body | Users you add will show up here. Add one to get started. | |
-| Primary button | + | |
-| Confirm dialog title | Are you sure? | |
-| Confirm dialog body | This will create the user. | |
-| Confirm dialog primary CTA | OK | |
-| Confirm dialog secondary CTA | Cancel | |
-| Inline error (duplicate email) | Error | |
-| Success toast | Done | |
+![Password Vault Settings](./UXcopy.jpg)
 
 Also include **2–3 sentences** on your voice/tone choices for IT admins (clarity, risk, and action).
 
