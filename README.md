@@ -23,7 +23,7 @@ You will receive access to a free JumpCloud account for assignment purposes.
 ### GitHub
 
 - A GitHub account
-- Comfort creating a repo from a template, working on a branch, committing Markdown, opening a pull request, and managing repository collaborators
+- Experience creating a repo from a template, working on a branch, committing Markdown, opening a pull request, and managing repository collaborators
 
 ### AI tools
 
