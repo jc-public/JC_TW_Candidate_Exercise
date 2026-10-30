@@ -1,4 +1,4 @@
-# Reference material for Exercise B (draft — improve this)
+# Reference material for Exercise B (Improve this)
 
 Create a cloud RADIUS server without the hassle of physical servers. You can quickly roll out RADIUS service to your org to securely authenticate users to Wi-Fi, VPNs, switches, network devices, etc. Orgs can also enable RADIUS access using Entra ID credentials or JumpCloud for the identity provider. When using JumpCloud, the authentication method options include a passwordless method using certificates. This article outlines the steps for configuring and authenticating a RADIUS server.
 
