@@ -98,7 +98,7 @@ After signing up and logging into the JumpCloud Admin Portal, write a help artic
 
 ## Exercise B — Edit for readability
 
-Review the draft help article in [`content/radius-draft.md`](./content/radius-draft.md). Improve readability by reorganizing, formatting, editing errors, and rewriting for clarity. Indicate where screenshots would help.
+Review the draft help article in [`ExerciseB_RADIUSDraft.md`](./ExerciseB_RADIUSDraft.md). Improve readability by reorganizing, formatting, editing errors, and rewriting for clarity. Indicate where screenshots would help.
 
 **Deliverable:** `candidate/exercise-b-radius.md` (your revised version — do not only leave comments; ship an improved article)
 
